@@ -16,7 +16,7 @@
 
 
 
-- [HTML-2020.06.05](https://github.com/alikwon/web/blob/master/Ex_0605/HTML (2020.06.05).md)
+- [HTML-2020.06.05](https://github.com/alikwon/web/blob/master/Ex_0605/HTML(2020.06.05).md)
 
 3. 기본 태그
    1. 글자태그
