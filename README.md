@@ -12,9 +12,7 @@
    4. 자바 스크립트의 종류와 기본작성법
    5. 요소 검사를 이용한 에러확인
 
-
-
-
+<hr>
 
 - [HTML-2020.06.05](https://github.com/alikwon/web/blob/master/Ex_0605/HTML(2020.06.05).md)
 
