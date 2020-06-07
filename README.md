@@ -4,7 +4,7 @@
 
 - [HTML-2020.06.04](https://github.com/alikwon/web/blob/master/basic_0604/HTML(2020.06.04).md)
 
-1. 웹 동작 원리
+1. [웹 동작 원리](https://github.com/alikwon/web/blob/master/basic_0604/HTML(2020.06.04).md#2-html5--%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%9E%91%EC%84%B1%EB%B2%95)
 2. HTML5 기본구조와 작성법
    1. 기본용어정리
    2. 기본구조
