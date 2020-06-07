@@ -2,7 +2,7 @@
 
 ------
 
-- [HTML-2020.06.04](https://github.com/alikwon/web/blob/master/basic_0604/HTML (2020.06.04).md)
+- [HTML-2020.06.04](https://github.com/alikwon/web/blob/master/basic_0604/HTML(2020.06.04).md)
 
 1. 웹 동작 원리
 2. HTML5 기본구조와 작성법
