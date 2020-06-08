@@ -28,4 +28,11 @@
    3. **입력양식태그**
 
 <hr>
+- [CSS-2020.06.08](https://github.com/alikwon/web/blob/master/CSS_0608/CSS3_selector.md)
 
+1. [선택자 개요](https://github.com/alikwon/web/blob/master/CSS_0608/CSS3_selector.md#1-%EC%84%A0%ED%83%9D%EC%9E%90-%EA%B0%9C%EC%9A%94)
+2. [기본선택자](https://github.com/alikwon/web/blob/master/CSS_0608/CSS3_selector.md#2-%EA%B8%B0%EB%B3%B8%EC%84%A0%ED%83%9D%EC%9E%90)
+   1. 전체 선택자
+   2. 태그 선택자
+   3. 아이디 선택자
+   4. 클래스 선택자
