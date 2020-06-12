@@ -146,7 +146,7 @@
 
 ## 4. 후손 선택자와 자손 선택자
 
-![후손 선택자와 자손선택자](https://ifh.cc/g/jEUUPN.png)
+![후손 선택자와 자손선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/css_childselector.png?raw=true)
 
 - ###### 후손 : 하나의 태그 아래의 모든 태그
 
