@@ -38,6 +38,18 @@
    2. 태그 선택자
    3. 아이디 선택자
    4. 클래스 선택자
+3. [속성 선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#3-%EC%86%8D%EC%84%B1-%EC%84%A0%ED%83%9D%EC%9E%90)
+4. [후손 선택자와 자손 선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#4-%ED%9B%84%EC%86%90-%EC%84%A0%ED%83%9D%EC%9E%90%EC%99%80-%EC%9E%90%EC%86%90-%EC%84%A0%ED%83%9D%EC%9E%90)
+
+   1. 후손
+   2. 자손
+   3. 동위선택자
+5. [반응선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#5-%EB%B0%98%EC%9D%91-%EC%84%A0%ED%83%9D%EC%9E%90-)
+6. [상태선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#6--%EC%83%81%ED%83%9C-%EC%84%A0%ED%83%9D%EC%9E%90)
+7. [구조선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#7-%EA%B5%AC%EC%A1%B0-%EC%84%A0%ED%83%9D%EC%9E%90)
+8. [문자선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#8-%EB%AC%B8%EC%9E%90-%EC%84%A0%ED%83%9D%EC%9E%90)
+9. [링크선택자](https://github.com/alikwon/web/blob/master/CSS_0608_9/CSS3_selector.md#9-%EB%A7%81%ED%81%AC-%EC%84%A0%ED%83%9D%EC%9E%90)
+10. 부정선택자
 
 ------
 
