@@ -37,7 +37,7 @@
 
 ## 2. 박스 속성
 
-![](https://ifh.cc/g/C5tNNZ.png)
+![](https://github.com/alikwon/web/blob/master/CSS_0608_9/css_boxproperty.png?raw=true)
 
 - width와 height 속성 : 글자를 감싸는 영역의 크기를 지정
 - boder 속성 : 테두리의 두께를 지정
