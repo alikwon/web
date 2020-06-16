@@ -13,6 +13,7 @@
             publisher:'Orange Media'
         }
         console.log(obj);
+        console.log(typeof(book));
         // javascript object → Json(String)
         var jsondata = JSON.stringify(book);
         console.log('jsondate type: '+typeof(jsondata));
@@ -24,7 +25,7 @@
         var newdata = '{"memberid":"cool","membername":"COOL","age":27, "program":["java","python","javascript"]}';
         console.log('newdata type: '+typeof(newdata));
 
-        //JSON(String)
+        //JSON(String) → javascript Object
         var newObj = JSON.parse(newdata);
         console.log('newObj type : '+typeof(newObj));
         console.log(newObj);
