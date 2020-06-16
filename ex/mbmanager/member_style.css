@@ -1,13 +1,18 @@
 input {
-    border: 2px solid #DDD;
+    border: 1px solid #111;
     width: 150px;
-    height: 25px;
+    height: 35px;
+    padding-left: 10px;
+    border-radius: 3px;
 }
 
 #inp td {
-    padding-right: 10px;
+
 }
 
+label{
+    padding: 10px;
+}
 hr {
     border: 1px solid #DDD;
 }
@@ -42,9 +47,16 @@ hr {
 }
 
 input[type=submit] {
+    background-color: #EEE;
+    border: 1px solid black;
+    color: black;
+    border-radius: 3px;
+    height: 68px;
+}
+label{
+    display: block;
     background-color: black;
-    border: 2px solid #DDD;
     color: white;
-    width: 150px;
-    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
