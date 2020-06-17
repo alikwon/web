@@ -71,8 +71,43 @@
 					$(item).css('background-color', 'red');
 			});
 
+			//end()
 			$('h3').css('background-color','orange').filter(':even').css('color','white').end().css('font-weight','100').filter(':odd').css('color','blue');		
 
+
+			var sites='';
+
+			sites += '<sites>';
+			sites += '	<site>';
+			sites += '		<name>NABER</name>';
+			sites += '		<url>http://www.naver.com</url>';
+			sites += '	</site>';
+			sites += '	<site>';
+			sites += '		<name>DAUM</name>';
+			sites += '		<url>http://www.daum.net</url>';
+			sites += '	</site>';
+			sites += '	<site>';
+			sites += '		<name>KAKAO</name>';
+			sites += '		<url>http://www.kakao.com</url>';
+			sites += '	</site>';
+			sites += '</sites>';
+
+
+			var xmlDoc = $.parseXML(sites);
+
+			var siteHtml = '';
+
+			$(xmlDoc).find('site').each(function (index){
+				var name = $(this).find('name').text();
+				var url = $(this).find('url').text();
+				siteHtml += '<div class="site">';
+				siteHtml += '	<h3>'+name+'<h3>';
+				siteHtml += '	<p><a href="'+url+'">'+url+'<p>';
+				siteHtml += '</div>';
+
+
+			});
+			$('#sites').html(siteHtml);
 		});
 
 	</script>
@@ -86,10 +121,28 @@
 		.title{
 			font-style: italic;
 		}
+
+		#sites {
+			overflow: hidden;
+		}
+
+		#sites>div.site{
+			width:200px;
+			padding: 20px;
+
+			border : 1px solid blue;
+			border-radius: 10px;
+
+			float:left;
+		}
 	</style>
 </head>
 
 <body>
+
+	<div id="sites">
+
+	</div>
 	<h3>heading-0</h3>
 	<h3>heading-1</h3>
 	<h3>heading-2</h3>
