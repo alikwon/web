@@ -4,9 +4,6 @@ const bevBtn = document.querySelector(".btn-bev");
 const desBtn = document.querySelector(".btn-des");
 const etcBtn = document.querySelector(".btn-etc");
 
-function choiceMenu(btn){
-	
-}
 function click(menuClass) {
 	removeShowing();
 	menuClass.classList.add("showing");
