@@ -18,7 +18,7 @@ body {
     
 }
 
-.js-toDoForm>input{
+.js-toDoForm>input,.showing>input{
     width: 350px;
     height: 40px;
     font-size: 25px;
@@ -30,7 +30,9 @@ body {
 .showing {
      display: block;
      font-size: 2em;
+     
 }
+
 .js-clock{
     font-size: 2.5em;
     text-align: center;

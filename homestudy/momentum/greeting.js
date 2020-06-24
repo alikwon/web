@@ -14,16 +14,19 @@ function handleSubmit(event){
     paintGreeting(currentVal);
     saveName(currentVal);
 }
+
 function askForName() {
-    form.classList.add(showingCN);
+    form.classList.add("showing");
     form.addEventListener("submit",handleSubmit);
 }
+
 function paintGreeting(text) {
-    form.classList.remove(showingCN);
-    greeting.classList.add(showingCN);
+    form.classList.remove("showing");
+    greeting.classList.add("showing");
     greeting.innerText = `Hello!! ${text}`;
 }
 
+//loadName : 
 function loadName() {
     const currentUser = localStorage.getItem(userLs);
     if (currentUser === null) {
@@ -32,7 +35,6 @@ function loadName() {
         paintGreeting(currentUser);
     }
 }
-
 
 function init() {
     loadName();
